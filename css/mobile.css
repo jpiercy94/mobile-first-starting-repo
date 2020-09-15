@@ -11,3 +11,27 @@ body {
 .headerContainer{
     background: rgba(0,0,0,0.8);
 }
+header h2{
+    color:#ccc;
+    margin:0;
+}
+
+nav ul{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+
+nav ul li{
+    padding:8px 5px;
+    border-bottom:1px solid #ccc;
+}
+
+nav ul li a{
+    color:#fff;
+    text-decoration: none;
+}
+
+.articles img{
+    width:100%;
+}
